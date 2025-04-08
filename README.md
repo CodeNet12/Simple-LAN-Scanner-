@@ -25,5 +25,9 @@ Before running the script, make sure you have Python installed on your machine. 
 1. **Clone this repository:**
    First, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/CodeNet12/Simple-LAN-Scanner.git
+   git clone https://github.com/CodeNet12/Simple-LAN-Scanner-.git
+   cd Simple-LAN-Scanner-
+   pip install - r requirements.txt
+   python main.py  
 # Simple-LAN-Scanner-
+# Note it is not working on andorid 
